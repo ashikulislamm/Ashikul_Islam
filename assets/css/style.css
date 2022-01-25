@@ -348,6 +348,11 @@ html, body {
     color: #000;
     margin-bottom: 0;
 }
+.service img{
+    height: 80px;
+    width: 80px;
+    opacity: 1;
+}
 
 /* Section: Portfolio */
 .section-portfolio {
